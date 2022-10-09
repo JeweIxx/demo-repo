@@ -4,4 +4,4 @@ description b
 
 ## YOO!!!!!!
 
-the tutorial been painful had some sshproblems
+the tutorial been painful had some ssh problems
